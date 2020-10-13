@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">KIDZ</string>
+    <string name="story1">1. An Old Man Lived in the Village</string>
+    <string name="story2">2. नन्हीं चिड़िया</string>
+    <string name="story3">Story3</string>
+    <string name="story4">Story4</string>
+    <string name="story5">Story5</string>
+
+    <string-array name="story1">
+        <item>android:drawableRight="@drawable/story1"</item>
+        <item>An old man lived in the village. He was one of the most unfortunate people in the world.
+            The whole village was tired of him; he was always gloomy, he constantly complained and was always in a bad mood.
+        </item>
+        <item>   The longer he lived, the more bile he was becoming and the more poisonous were his words.
+            People avoided him, because his misfortune became contagious. It was even unnatural and insulting to be happy next to him.
+            He created the feeling of unhappiness in others.</item>
+        <item>
+            But one day, when he turned eighty years old, an incredible thing happened. Instantly everyone started hearing the rumour:
+            “An Old Man is happy today, he doesn’t complain about anything, smiles, and even his face is freshened up.”
+            The whole village gathered together. The old man was asked:
+            Villager: What happened to you?
+
+            “Nothing special. Eighty years I’ve been chasing happiness, and it was useless.
+            And then I decided to live without happiness and just enjoy life. That’s why I’m happy now.” – An Old Man
+
+        </item>
+        <item>
+            Moral of the story:
+            Don’t chase happiness. Enjoy your life.
+        </item>
+    </string-array>
+    <string-array name="story2">
+        <item>बहुत समय पुरानी बात है, एक बहुत घना जंगल हुआ करता था| एक बार किन्हीं कारणों से पूरे जंगल में भीषण आग लग गयी| सभी जानवर देख के डर रहे थे की अब क्या होगा??</item>
+        <item>थोड़ी ही देर में जंगल में भगदड़ मच गयी सभी जानवर इधर से उधर भाग रहे थे पूरा जंगल अपनी अपनी जान बचाने में लगा हुआ था| उस जंगल में एक नन्हीं चिड़िया
+        रहा करती थी उसने देखा क़ि सभी लोग भयभीत हैं जंगल में आग लगी है मुझे लोगों की मदद करनी चाहिए|
+        यही सोचकर वह जल्दी ही पास की नदी में गयी और चोच में पानी भरकर लाई और आग में डालने लगी| वह बार बार नदी में जाती और
+        चोच में पानी डालती| पास से ही एक उल्लू गुजर रहा था उसने चिड़िया की इस हरकत को देखा और मन ही मन सोचने लगा बोला क़ि ये चिड़िया कितनी मूर्ख है इतनी भीषण आग को ये चोंच में पानी भरकर कैसे बुझा सकती है|</item>
+        <item>यही सोचकर वह चिड़िया के पास गया और बोला कि तुम मूर्ख हो इस तरह से आग नहीं बुझाई जा सकती है|
+चिड़िया ने बहुत विनम्रता के साथ उत्तर दिया-“मुझे पता है कि मेरे इस प्रयास से कुछ नहीं होगा लेकिन मुझे अपनी तरफ से best करना है, आग कितनी भी भयंकर हो लेकिन मैं अपना प्रयास नहीं छोड़ूँगी”
+उल्लू यह सुनकर बहुत प्रभावित हुआ|
+तो मित्रों यही बात हमारे जीवन पर भी लागू होती है| जब कोई परेशानी आती है तो इंसान घबराकर हार मान लेता है लेकिन हमें बिना डरे प्रयास करते रहना चाहिए यही इस कहानी की शिक्षा है|</item>
+    </string-array>
+    <string-array name="story3">
+        <item>story3story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1</item>
+    </string-array>
+    <string-array name="story4">
+        <item>story4story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1</item>
+    </string-array>
+    <string-array name="story5">
+        <item>story4story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1story1</item>
+    </string-array>
+
+
+</resources>
