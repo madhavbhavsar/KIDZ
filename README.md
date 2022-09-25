@@ -11,12 +11,10 @@ Features :- <p>1. Created using Android Studio and Java.</p>
 
 Also available on Play Store :- https://play.google.com/store/apps/details?id=edu.madappsdevlopers.kidz
 
-LinkedIn Post :- https://www.linkedin.com/posts/madhavbhavsar_androidappdevelopment-androidstudio-activity-6944797694603182080-Akyv?utm_source=share&utm_medium=member_desktop
-
 LinkedIn Profile :- https://www.linkedin.com/in/madhavbhavsar/
 
-![1](https://user-images.githubusercontent.com/69354473/192121098-d3e629f8-b558-41bd-8439-20d1d32b1637.png)
-![6](https://user-images.githubusercontent.com/69354473/192121227-0b991be3-cdbc-4a9b-a160-5b729b0cb84c.png)
-![5](https://user-images.githubusercontent.com/69354473/192121173-9ab0bc04-cdc5-433d-9e4c-edd5b97ff827.png)
-![4](https://user-images.githubusercontent.com/69354473/192121177-2767bf4b-49bd-4838-b673-4399433a0364.png)
-![3](https://user-images.githubusercontent.com/69354473/192121179-ba7742ab-7570-4856-8f7c-300796b30a1c.png)
+![2](https://user-images.githubusercontent.com/69354473/192162611-2fee9a99-975f-43d4-9993-bd6747acbf17.png)
+![3](https://user-images.githubusercontent.com/69354473/192162508-1494353b-ca45-4965-9b17-cad76fcfb57b.png)
+![4](https://user-images.githubusercontent.com/69354473/192162509-5c0ba9d7-fb51-42ba-ba3a-c9712ddcbad4.png)
+![5](https://user-images.githubusercontent.com/69354473/192162511-d3fee505-224b-4732-b049-9721427038da.png)
+![6](https://user-images.githubusercontent.com/69354473/192162571-75f443d9-5354-40f4-a40c-f7c84e557a40.png)
